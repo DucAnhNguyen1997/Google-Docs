@@ -34,7 +34,7 @@
     "@electron-forge/maker-zip": "latest",
     "@electron-forge/publisher-github": "latest",
     "@electron-forge/publisher-snapcraft": "latest",
-    "electron": "^31.1.0"
+    "electron": "^34.5.5"
   },
   "dependencies": {
     "electron-squirrel-startup": "latest",
