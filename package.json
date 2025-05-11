@@ -1,7 +1,7 @@
 {
   "name": "google-docs",
   "productName": "Google Docs",
-  "version": "2022.12.1",
+  "version": "2025.5.11",
   "description": "Google Docs is a free universal desktop app containing an office suite.",
   "main": "main.js",
   "scripts": {
